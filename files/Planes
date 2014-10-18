@@ -1,0 +1,15 @@
+#name of plane=type of plane;range;holding capacity;other features
+
+boeing-777=passenger;11200;317.5;400
+boeing-767=passenger;10600;186.8;255
+airobus-A330=passenger;12300;230;290
+airobus-A320=passenger;4000;75.5;150
+IL-96=passenger;10000;250;300
+Sukhoi-Superjet-100=passenger;2400;45.88;100
+AH-26=cargo;2550;45;45
+AH-74=cargo;3300;36.5;45
+AH-12=cargo;5530;61;90
+#first-incorrect=cargo;5530;90
+#second-incorrect=carg;5530;61;90;90
+#third-incorrect=cargo;4590ggg;61;90
+#fourth-incorrect=cargo;-5530;61;90
